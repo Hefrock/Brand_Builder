@@ -5,14 +5,6 @@ Imagine your product across Billboards, Newspapers, and Social Media while maint
 
 ---
 
-## 🚦 Live Demo & Status
-
-> [!IMPORTANT]
-> **[Click here to view the Live Demo](https://ais-pre-nq4qm2n2a5akuqsedgrkam-174871162112.us-east5.run.app)**  
-> *Note: If this link returns a 404, please ensure you have clicked the **"Share"** or **"Publish"** button in the AI Studio header to activate the production endpoint.*
-
----
-
 ## 🎨 Visual Showcase
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
