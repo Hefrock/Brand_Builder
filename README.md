@@ -10,21 +10,21 @@ Imagine your product across Billboards, Newspapers, and Social Media while maint
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 50%; padding: 10px; vertical-align: top; border: none;">
-      <h3 align="center">🎯 Input & Strategy</h3>
+      <h3 align="center">🎯 Prompt Strategy</h3>
       <img src="./screenshots/hero_section.PNG" alt="Hero Section" style="border-radius: 8px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);">
       <p align="center" style="font-size: 0.9em; color: #666;">High-fidelity prompt engineering interface for consistent branding.</p>
     </td>
     <td style="width: 50%; padding: 10px; vertical-align: top; border: none;">
-      <h3 align="center">🏙️ Out-of-Home</h3>
+      <h3 align="center">🏙️ Billboard</h3>
       <img src="./screenshots/billboard_view.PNG" alt="Billboard View" style="border-radius: 8px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);">
       <p align="center" style="font-size: 0.9em; color: #666;">Urban-scale visualization maintaining product geometry and vibe.</p>
     </td>
   </tr>
   <tr>
     <td colspan="2" style="padding: 10px; border: none;">
-      <h3 align="center">📰 Multi-Channel Integration</h3>
+      <h3 align="center">📰 Social Media</h3>
       <img src="./screenshots/newspaper_social_view.PNG" alt="Social Media and News" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);">
-      <p align="center" style="font-size: 0.9em; color: #666;">Seamless asset generation across Digital and Print media.</p>
+      <p align="center" style="font-size: 0.9em; color: #666;">Seamless asset generation across media.</p>
     </td>
   </tr>
 </table>
