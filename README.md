@@ -3,7 +3,13 @@
 **Transform your product concepts into professional-grade creative assets.**  
 Imagine your product across Billboards, Newspapers, and Social Media while maintaining perfect visual consistency.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge&logo=google-cloud)](https://ais-pre-nq4qm2n2a5akuqsedgrkam-174871162112.us-east5.run.app)
+---
+
+## 🚦 Live Demo & Status
+
+> [!IMPORTANT]
+> **[Click here to view the Live Demo](https://ais-pre-nq4qm2n2a5akuqsedgrkam-174871162112.us-east5.run.app)**  
+> *Note: If this link returns a 404, please ensure you have clicked the **"Share"** or **"Publish"** button in the AI Studio header to activate the production endpoint.*
 
 ---
 
@@ -19,13 +25,13 @@ Imagine your product across Billboards, Newspapers, and Social Media while maint
 </details>
 
 <details>
-<summary><b>🏙️ Billboard Visualization (High Impact)</b></summary>
+<summary><b>🏙️ Billboard Visualization</b></summary>
 <br>
 <img src="./screenshots/billboard_view.PNG" alt="Billboard" width="800" style="border-radius: 12px; border: 1px solid #eaeaea;">
 </details>
 
 <details>
-<summary><b>📰 Newspaper & Social Media Integration</b></summary>
+<summary><b>📰 Media Integration (Social & Print)</b></summary>
 <br>
 <img src="./screenshots/newspaper_social_view.PNG" alt="Newspaper and Social" width="800" style="border-radius: 12px; border: 1px solid #eaeaea;">
 </details>
@@ -37,16 +43,16 @@ Imagine your product across Billboards, Newspapers, and Social Media while maint
 - **🎯 AI Creative Director**: Intelligent prompt engineering that maintains your product's DNA across different formats.
 - **🖼️ Multi-Medium Support**: Specialized generation for high-impact Billboards, elegant Newspapers, and lifestyle Social Posts.
 - **🛡️ Safety Guardrails**: Built-in "No People" policy ensures your product remains the absolute star of every shot.
-- **⚡ Enterprise Scale**: Full-stack architecture with secure proxies for Gemini, Claude 3.5, and GPT-4o.
+- **⚡ Performance First**: Full-stack architecture with secure, high-speed proxies for Gemini 2.0, Claude 3.5, and GPT-4o.
+
+---
 
 ## 🛠️ Tech Stack
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Frontend** | React 19, Vite, Tailwind CSS, Motion |
-| **Backend** | Node.js, Express (API Proxy) |
-| **Intelligence** | Gemini 2.0, Claude 3.5 Sonnet, GPT-4o, DALL-E 3 |
-| **Styling** | shadcn/ui, Lucide Icons, Geist Sans |
+- **Core**: React 19, Vite, TypeScript
+- **Styling**: Tailwind CSS, Motion, shadcn/ui
+- **Backend**: Node.js, Express (Internal API Proxy)
+- **Intelligence**: Google Gemini 2.0, OpenAI DALL-E 3, Anthropic
 
 ---
 
